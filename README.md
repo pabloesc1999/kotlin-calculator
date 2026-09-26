@@ -1,4 +1,4 @@
-<img width="720" height="1600" alt="WhatsApp Image 2026-09-26 at 16 55 40" src="https://github.com/user-attachments/assets/89594b96-749b-4860-b06c-417a602d4476" />
+<img width="580" height="920" alt="WhatsApp Image 2026-09-26 at 16 55 40" src="https://github.com/user-attachments/assets/89594b96-749b-4860-b06c-417a602d4476" />
 <h1 align="center">Simple Calculator</h1>
 
 <p align="center">
