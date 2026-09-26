@@ -8,9 +8,7 @@
 
 <p align="center">My first real Kotlin/Android project — a calculator app, built while learning.</p>
 
-<p align="center">
-  <img src="screenshot.png" width="300" alt="App screenshot" />
-</p>
+
 
 ## ✨ What it does
 - Standard arithmetic: addition, subtraction, multiplication, division
