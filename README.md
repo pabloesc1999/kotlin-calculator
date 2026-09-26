@@ -30,6 +30,4 @@
 - Handling edge cases: leading zeros, decimal limits, divide-by-zero, operator chaining
 - Using Kotlin enums for type safety instead of raw chars/strings
 - Why `BigDecimal` matters for anything involving money or exact math
-- git add README.md
-git commit -m "Add README"
-git push
+
